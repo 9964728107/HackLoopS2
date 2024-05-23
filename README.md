@@ -29,7 +29,7 @@ Stack: MongoDB,Node,Express,EJS,passport.js,cloudinary,Razorpay,Nodemailer
   1. Fork the repo to ur account
   2. clone repo
   3. cd HackLoopS2/backend
-  4. connect ur mongoDB, change MONGO_URL = 'mongodb://127.0.0.1:27017/Hackloop(ur db name)' in index.js
+  4. connect ur mongoDB, change MONGO_URL = 'mongodb://127.0.0.1:27017/Hackloop(ur db name)' @ ./backend/.env 
   5. npm i -f
   6. http://localhost:3001/
 
